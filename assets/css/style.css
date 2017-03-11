@@ -1,0 +1,32 @@
+
+.Main {
+	width:100%;
+	height:auto;
+  font-size: 20px;
+}
+
+#Animals-Gif
+{ 
+  width:100%;
+  height: auto;
+
+}
+.animalDiv
+{
+  width:350px;
+  float: left;
+  margin-left:50px;
+}
+
+form
+{
+	text-align: right;
+  padding-right:70px;
+}
+
+
+
+
+
+
+
